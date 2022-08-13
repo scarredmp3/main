@@ -38,12 +38,12 @@ function onLoad()
         igIcon.style.cssText = "max-width: 4%; max-height: 4%;";
         ytIcon.style.cssText = "max-width: 4%; max-height: 4%; margin-left: 1rem;";
         spotiIcon.style.cssText = "max-width: 4%; max-height: 4%; margin-left: 1rem;";
-        emotes.style.cssText = "max-width: 3.5%; max-height: 3.5%; margin-left: 1rem;";
+        emotes.style.cssText = "max-width: 4%; max-height: 4%; margin-left: 1rem;";
 
         igIcon.classList.add('main2');
         ytIcon.classList.add('main2');
         spotiIcon.classList.add('main2');
-        emotes.classList.add('main3');
+        emotes.classList.add('main2');
     }
     else
     {
